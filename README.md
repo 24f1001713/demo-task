@@ -1,6 +1,6 @@
 # demo-task
 
-This app should display Hello World
+Updated app should also display 'Hello World!' in green
 
 ## License
 MIT
